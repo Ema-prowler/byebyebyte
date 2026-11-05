@@ -1,11 +1,12 @@
-# byebyebyte
+<h1 align="center">byebyebyte</h1>
 
-
-Q   4   _0   _R
-│   │    │    └── Repacked: mismo cálculo, otro orden de bytes
-│   │    └─────── versión 0 de la familia
-│   └──────────── 4 bits por peso
-└──────────────── Quantized
+```
+Q4_0_R
+││ │ └───── Repacked: mismo cálculo, otro orden de bytes
+││ └─────── versión 0 de la familia
+│└───────── 4 bits por peso
+└────────── Quantized
+```
 
 
 ---
