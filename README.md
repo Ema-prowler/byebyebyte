@@ -61,7 +61,7 @@ B la diferencia medida está dentro del ruido. Se elige 16 B porque es el máxim
 de la arquitectura y deja el kernel sin depender de que el compilador agrupe
 cargas más estrechas.
 
-Medición cruda, 10 pasadas por configuración, `tools/load_width.cu`:
+Medición cruda, 10 pasadas por configuración:
 
 ```
 NVIDIA GeForce GTX 1050 | SM 6.1 | 5 SMs | 512 MB por pasada | 10 pasadas de 10 repeticiones
@@ -215,6 +215,12 @@ Driver   : NVIDIA 550.163.01
 CUDA     : 12.4 (V12.4.131)
 Sistema  : Kali GNU/Linux Rolling, kernel 7.1.5+kali-amd64
 ```
+
+La herramienta que produjo la tabla de medición cruda de ancho de carga y fase
+todavía no está publicada. Cada GPU necesita compilarla con su versión de CUDA y
+para su arquitectura. Un binario universal es posible, pero ahora mismo no está
+entre las prioridades: la herramienta para este caso concreto estará disponible
+más adelante.
 
 ## Disclaimer
 
