@@ -222,7 +222,7 @@ para su arquitectura. Un binario universal es posible, pero ahora mismo no está
 entre las prioridades: la herramienta para este caso concreto estará disponible
 más adelante.
 
-mas mejoras del rendimiento pronto
+mas mejoras de rendimiento pronto
 
 ## Disclaimer
 
