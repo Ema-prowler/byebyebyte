@@ -222,6 +222,8 @@ para su arquitectura. Un binario universal es posible, pero ahora mismo no está
 entre las prioridades: la herramienta para este caso concreto estará disponible
 más adelante.
 
+mas mejoras del rendimiento pronto
+
 ## Disclaimer
 
 Comprobá si tu placa y tu motor están usando bien los bytes. Si no, byebyebyte.
